@@ -1,0 +1,39 @@
+/*
+  ---------------
+  General styling
+  ---------------
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+	font-family: "Helvetica", "Arial", sans-serif;
+  font-size: 1rem;
+  font-weight: normal;
+  line-height: 1.5rem;
+  padding: 1.5rem;
+}
+
+h1 {
+  margin-bottom: 0.75rem;
+  background-color: cyan;
+  padding: 1rem;
+  width: 15rem;
+}
+
+div {
+  width: 50%;
+  padding: 1.5rem;
+  margin: 0 auto;
+  background-color: lightgrey;
+  border: 3px solid grey;
+}
+
+p {
+  padding: 0.75rem;
+  background-color: magenta;
+}
